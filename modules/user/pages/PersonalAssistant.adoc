@@ -1,0 +1,13 @@
+= Описание работы с программой "Личный помощник"
+
+* *xref:../topics/Settings_Assistant.adoc[Настройки общих параметров]* +
+* *xref:../topics/Settings_Connection.adoc[Настройка соединения с сервером {dv}]* +
+* *xref:../topics/Adding_Query.adoc[Добавление поискового запроса]* +
+* *xref:../topics/Edit_Query.adoc[Изменение поискового запроса]* +
+* *xref:../topics/Setting_Query.adoc[Настройка поискового запроса]* +
+* *xref:../topics/Delet_Query.adoc[Удаление поискового запроса]* +
+* *xref:../topics/runSearch.adoc[Выполнение поиска]* +
+* *xref:../topics/Update_List_of_Queries.adoc[Обновление списка поисковых запросов]* +
+* *xref:../topics/Export_to_Xml.adoc[Экспорт запроса в файл формата XML]* +
+* *xref:../topics/Import_to_Xml.adoc[Импорт запроса в файл формата XML]* +
+* *xref:../topics/Open_Navigator_of_PersonalAssistant.adoc[Запуск программы "Windows-клиент"]* +

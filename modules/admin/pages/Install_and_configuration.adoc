@@ -1,0 +1,6 @@
+= Установка и настройка
+
+* *xref:../topics/Installation_kit.adoc[Состав установочного комплекта]* +
+* *xref:../topics/Install_server.adoc[Установка серверной части Приложения]* +
+* *xref:../topics/Install_client.adoc[Установка клиентской части Приложения]* +
+* *xref:../topics/Uninstall.adoc[Удаление Приложения]* +

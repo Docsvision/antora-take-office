@@ -1,0 +1,29 @@
+= Карточки
+
+Чтобы настроить параметры карточек Делопроизводства, выполните следующие действия:
+
+. В области *Категории* выберите ветку *Делопроизводство* > *Карточки*.
++
+При этом в средней части карточки справочника будет отображена область *Карточки*.
+
+image::Cards_OfficeWork.png[Настройки карточек приложения 'Делопроизводство 4.5']
+. xref:OfficeWork_Cards_card_document.adoc[Выполните настройку карточек типа 'Документ'].
+. xref:OfficeWork_Cards_card_file.adoc[Выполните настройку карточек типа 'Файл'].
+. xref:OfficeWork_Cards_file_open.adoc[Настройте способ открытия файлов].
+. xref:OfficeWork_Cards_rights_deputy.adoc[Настройте права для заместителей].
+. При необходимости, перейдите по ссылке Расширенные настройки.
++
+Будет открыто окно *Карточки*.
+
+image::Cards_OfficeWork_extra.png[Расширенные настройки карточек Делопроизводства 4.5]
+. Определите дополнительные параметры карточек Делопроизводства:
+* xref:OfficeWork_Cards_rights.adoc[определите права на карточки];
+* xref:OfficeWork_Cards_uniqueness_details.adoc[настройте проверку уникальности реквизитов];
+* xref:OfficeWork_Cards_signature.adoc[настройте автоматическое наложение электронной подписи при согласовании].
+
+* *xref:../topics/OfficeWork_Cards_card_file.adoc[Настройки карточек типа 'Файл']* +
+* *xref:../topics/OfficeWork_Cards_card_document.adoc[Настройки карточек типа 'Документ']* +
+* *xref:../topics/OfficeWork_Cards_file_open.adoc[Открытие файлов]* +
+* *xref:../topics/OfficeWork_Cards_rights.adoc[Права на карточки Делопроизводства 4.5]* +
+* *xref:../topics/OfficeWork_Cards_uniqueness_details.adoc[Проверка уникальности реквизитов секции 'Содержание']* +
+* *xref:../topics/OfficeWork_Cards_signature.adoc[Автоматическое наложение подписи при согласовании]* +
