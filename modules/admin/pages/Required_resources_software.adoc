@@ -25,4 +25,3 @@
 [loweralpha]
 .. ABBYY FineReader Scripting Edition 6.0/7.0 – для работы функции распознавания в карточках Приложения.
 
-* *xref:../topics/Requirements_software_forsign.adoc[Программное обеспечение, необходимое для использования квалифицированной ЭП]* +

@@ -21,9 +21,3 @@ image::Cards_OfficeWork_extra.png[Расширенные настройки ка
 * xref:OfficeWork_Cards_uniqueness_details.adoc[настройте проверку уникальности реквизитов];
 * xref:OfficeWork_Cards_signature.adoc[настройте автоматическое наложение электронной подписи при согласовании].
 
-* *xref:../topics/OfficeWork_Cards_card_file.adoc[Настройки карточек типа 'Файл']* +
-* *xref:../topics/OfficeWork_Cards_card_document.adoc[Настройки карточек типа 'Документ']* +
-* *xref:../topics/OfficeWork_Cards_file_open.adoc[Открытие файлов]* +
-* *xref:../topics/OfficeWork_Cards_rights.adoc[Права на карточки Делопроизводства 4.5]* +
-* *xref:../topics/OfficeWork_Cards_uniqueness_details.adoc[Проверка уникальности реквизитов секции 'Содержание']* +
-* *xref:../topics/OfficeWork_Cards_signature.adoc[Автоматическое наложение подписи при согласовании]* +

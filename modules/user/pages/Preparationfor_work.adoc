@@ -1,4 +1,2 @@
 = Подготовка к работе
 
-* *xref:../topics/Application_run.adoc[Запуск Приложения]* +
-* *xref:../topics/Starting_PersonalAssistant.adoc[Запуск программы "Личный помощник"]* +

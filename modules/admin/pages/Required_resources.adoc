@@ -1,6 +1,2 @@
 = Необходимые ресурсы
 
-* *xref:../topics/Required_resources_hardware.adoc[Необходимое техническое обеспечение]* +
-* *xref:../topics/Required_resources_software.adoc[Необходимое программное обеспечение]* +
-* *xref:../topics/RequirementsToDv.adoc[Требования к системе {dv}]* +
-* *xref:../topics/License.adoc[Лицензия]* +

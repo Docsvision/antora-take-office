@@ -9,5 +9,7 @@ asciidoc:
 
 nav:
 - modules/ROOT/description.adoc
+- modules/common/common.adoc
+- modules/user/user.adoc
 
 #  start_page: ROOT:description.adoc

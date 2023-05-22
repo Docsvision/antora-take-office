@@ -2,9 +2,3 @@
 
 Настройка приложения "Делопроизводство 4.5" выполняется в разделе "Делопроизводство" справочника "Системные настройки".
 
-* *xref:../topics/Signature_and_encryption.adoc[Подписи и шифрование]* +
-* *xref:../topics/OfficeWork_Cards.adoc[Карточки]* +
-* *xref:../topics/OfficeWork_numerator.adoc[Нумераторы]* +
-* *xref:../topics/OfficeWork_tasks.adoc[Задачи и задания]* +
-* *xref:../topics/OfficeWork_Cards_scan_print.adoc[Сканирование и печать]* +
-* *xref:../topics/OfficeWork_barcodes.adoc[Штрих-коды]* +
