@@ -1,7 +1,4 @@
-= Изменения в релизной версии
-
-* xref:changes.adoc[Изменения]
-* xref:bugs.adoc[Исправленные ошибки]
-* xref:optimizations.adoc[Оптимизации]
-* xref:conditions.adoc[Условия обновления]
-* xref:howupdate.adoc[Обновление]
+* Изменения, обновления и исправленные ошибки
+** xref:change-log.adoc[]
+*** xref:bugs.adoc[]
+** xref:patches-log.adoc[Накопительные обновления]

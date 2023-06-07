@@ -5,7 +5,13 @@ prerelease: true
 title: Делопроизводство 4.5
 asciidoc:
   attributes:
-    att: 'val'
+    pl-req: 'версии 6.1'
+    dm-req: 'версии 6.1'
+    wf-req: 'версии 6.1'
+    ad-req: 'версии 6.1'
+    bo-req: 'версии 6.1'
+    win-req: 'версии 6.1'
+    ws-req: 'версии 6.1'
 
 nav:
 - modules/ROOT/description.adoc

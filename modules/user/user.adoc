@@ -1,11 +1,4 @@
 * Руководство пользователя
-** xref:Annotation.adoc[]
-** xref:Introduction.adoc[]
-*** xref:Scope.adoc[]
-*** xref:Capabilities.adoc[]
-**** xref:Description_General.adoc[]
-*** xref:UserLevel.adoc[]
-*** xref:Listof_documentation.adoc[]
 ** xref:Preparationfor_work.adoc[]
 *** xref:Application_run.adoc[]
 *** xref:Starting_PersonalAssistant.adoc[]
