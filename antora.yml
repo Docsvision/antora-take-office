@@ -14,7 +14,7 @@ asciidoc:
     ws-req: 'версии 6.1'
 
 nav:
-- modules/ROOT/description.adoc
+- modules/ROOT/nav.adoc
 - modules/common/common.adoc
 - modules/admin/admin.adoc
 - modules/user/user.adoc
