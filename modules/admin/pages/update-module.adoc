@@ -16,6 +16,6 @@ include::webclient:ROOT:partial$excerpts.adoc[tags=what-changed]
 [#update]
 == Порядок обновления
 
-include::6.1@platform:admin:partial$update.adoc[]
+include::dev@platform:admin:partial$update.adoc[]
 +
-include::6.1@platform:admin:partial$client.adoc[]
+include::dev@platform:admin:partial$client.adoc[]
