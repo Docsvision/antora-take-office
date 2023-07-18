@@ -1,6 +1,6 @@
 = Установка серверной части
 
-include::6.1@install-linux::partial$limitation.adoc[]
+include::install-linux::partial$limitation.adoc[]
 
 [#linux]
 == Установка на Linux
