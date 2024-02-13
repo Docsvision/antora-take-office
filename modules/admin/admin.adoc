@@ -1,5 +1,5 @@
 * Администрирование приложения
-** xref:install-module.adoc[]
+** xref:install.adoc[]
 *** xref:install-server.adoc[]
 *** xref:install-client.adoc[]
 *** xref:uninstall.adoc[]
