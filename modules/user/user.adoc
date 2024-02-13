@@ -1,6 +1,6 @@
 * Руководство пользователя
 ** xref:prepare.adoc[]
-** Описание работы с программой "Личный помощник"
+** xref:personal-assistant.adoc[]
 *** xref:general.adoc[]
 *** xref:connection.adoc[]
 *** xref:query-add.adoc[]

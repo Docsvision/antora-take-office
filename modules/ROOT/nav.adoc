@@ -2,6 +2,5 @@
 * xref:index.adoc[]
 ** xref:user-level.adoc[]
 
-* Требования
-** xref:requirements.adoc[]
+* xref:requirements.adoc[]
 ** xref:requirements-signature.adoc[]
