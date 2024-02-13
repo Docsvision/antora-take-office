@@ -1,10 +1,10 @@
 * Администрирование приложения
-** Установка и настройка
+** xref:install-module.adoc[]
 *** xref:install-server.adoc[]
 *** xref:install-client.adoc[]
 *** xref:uninstall.adoc[]
 *** xref:update-module.adoc[]
-** xref:functions.adoc[]
+** xref:admin-functions.adoc[]
 *** xref:signature-encryption.adoc[]
 *** xref:cards.adoc[]
 **** xref:file.adoc[]
