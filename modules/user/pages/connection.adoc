@@ -23,7 +23,7 @@ image::connection-settings.png[Окно "Личный помощник"]
 +
 [NOTE]
 ====
-Альтернативный вариант включения базовой аутентификации: изменить в реестре ОС значение ключа `HKEY_CURRENT_USER\SOFTWARE\Docsvision\TakeOffice\5.5\TrayAgent\DisableNTLM` на `1`.
+Альтернативный вариант включения базовой аутентификации: изменить в реестре ОС значение ключа `HKEY_CURRENT_USER\SOFTWARE\Docsvision\TakeOffice\TrayAgent\DisableNTLM` на `1`.
 ====
 +
 * При нажатии кнопки *Проверить* будет проверена возможность соединения с сервером {dv} с применением введенных настроек.
