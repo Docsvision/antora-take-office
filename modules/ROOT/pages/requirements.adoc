@@ -10,7 +10,7 @@
 
 |Операционная система
 a|
-include::CU5@install-linux:ROOT:requirements-software.adoc[tags=oslist]
+include::dv6@install-linux:ROOT:requirements-software.adoc[tags=oslist]
 
 |[[hard]]Необходимое техническое обеспечение
 |Специальные требования к аппаратному обеспечению не предъявляются.
