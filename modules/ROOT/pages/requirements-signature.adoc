@@ -6,8 +6,8 @@
 . Компоненты криптопровайдера "КриптоПро":
 +
 * КриптоПро CSP версии {csp-v}.
-* КриптоПро TSPCOM версии {tspcom-v}.
-* КриптоПро OCSPCOM версии {ocspcom-v}.
+* КриптоПро TSP Client версии {tspcom-v}.
+* КриптоПро OCSP Client версии {ocspcom-v}.
 +
 . Сертификаты:
 +
@@ -20,8 +20,8 @@
 . Компоненты криптопровайдера "КриптоПро":
 +
 * КриптоПро CSP версии {csp-v}.
-* КриптоПро TSPCOM версии {tspcom-v}.
-* КриптоПро OCSPCOM версии {ocspcom-v}.
+* КриптоПро TSP Client версии {tspcom-v}.
+* КриптоПро OCSP Client версии {ocspcom-v}.
 * КриптоПро CADESCOM {cadescom-v}.
 +
 . Сертификаты:
