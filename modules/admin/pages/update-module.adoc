@@ -1,4 +1,5 @@
 :update: takeoffice
+:installer: {dv} TakeOffice server.msi
 
 = Обновление приложения
 
