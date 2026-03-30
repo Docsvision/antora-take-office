@@ -1,7 +1,5 @@
 = Установка серверной части
 
-include::dev@install-linux::partial$limitation.adoc[]
-
 [#linux]
 == Установка на Linux
 
