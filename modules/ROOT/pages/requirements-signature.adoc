@@ -14,9 +14,9 @@
 * Корневой сертификат КриптоПро. +
 Должен быть установлен в хранилище "Доверенные корневые центры сертификации" на уровне "Локальный компьютер".
 +
-. Криптосервис:
+. {blank}
 +
-include::RCU@backoffice:ROOT:requirements.adoc[tags=cryptojava]
+include::RCU@webclient:ROOT:requirements-signature.adoc[tags=cryptojava]
 
 [#client]
 == Требования к клиентским рабочим местам
