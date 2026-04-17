@@ -16,7 +16,7 @@
 +
 . {blank}
 +
-include::RCU@webclient:ROOT:requirements-signature.adoc[tags=cryptojava]
+include::6.1@webclient:ROOT:requirements-signature.adoc[tags=cryptojava]
 
 [#client]
 == Требования к клиентским рабочим местам
