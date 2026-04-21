@@ -1,8 +1,6 @@
 * Администрирование приложения
 ** xref:install.adoc[]
 *** xref:install-server.adoc[]
-*** xref:install-client.adoc[]
-*** xref:uninstall.adoc[]
 *** xref:update-module.adoc[]
 ** xref:admin-functions.adoc[]
 *** xref:signature-encryption.adoc[]

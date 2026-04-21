@@ -1,18 +1,16 @@
 :page-layout: home
 
-= Установка и настройка
+= Установка и обновление
 
 [tabs]
 ====
 Модуль {to}::
 +
-.Установка и настройка
+.Установка и обновление
 ****
 Информация об установке модуля и обновлении версии.
 
 * xref:install-server.adoc[]
-* xref:install-client.adoc[]
-* xref:uninstall.adoc[]
 * xref:update-module.adoc[]
 ****
 ====
