@@ -49,7 +49,7 @@ image::install-server-confirm.png[Мастер установки серверн
 +
 . На следующем экране нажмите кнопку *Готово*, чтобы закрыть мастер установки.
 +
-include::new-admin-console@install-linux:ROOT:partial$restart-and-db.adoc[tags=without-restart]
+include::dv6@install-linux:ROOT:partial$restart-and-db.adoc[tags=without-restart]
 
 [#client]
 == Установка клиентской части
